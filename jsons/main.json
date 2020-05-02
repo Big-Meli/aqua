@@ -1,0 +1,36 @@
+
+{
+    "global": {
+        "users": {
+            "386913021488005120": {
+                "bad_karma": 1,
+                "friends": [],
+                "good_karma": 1
+            },
+            "405065319887929354": {
+                "bad_karma": 0,
+                "friends": [],
+                "good_karma": 2
+            },
+            "685384266736992256": {
+                "bad_karma": 2,
+                "friends": [],
+                "good_karma": 12
+            },
+            "705026806230810685": {
+                "bad_karma": 0,
+                "friends": [],
+                "good_karma": 4
+            },
+            "705356763880357978": {
+                "bad_karma": 0,
+                "friends": [],
+                "good_karma": 0
+            }
+        }
+    },
+
+    "dev": {
+        "version": 0
+    }
+}
